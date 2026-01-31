@@ -11,11 +11,11 @@ let num1 = 9.54578;
 // ex:
 let num2 = Math.ceil(num1) // Mostra 10
 console.log(num2);
-// arredona para o primeiro número inteiro para cima
+// arredonda para o primeiro número inteiro para cima
 
 // caso eu queira sempre fazer um arredondamento para cima ou para baixo
 // posso usar função Math.round(), desta forma se o número estiver quebrado
-// a cima de 50, ele arredonda para cima, e se estiver quebrado de 49 para baixo ele arredonda para baixo
+// a cima de .50, ele arredonda para cima, e se estiver quebrado de 49 para baixo ele arredonda para baixo
 // ex:
 
 console.log(Math.round(num1)); // Mostra 10
